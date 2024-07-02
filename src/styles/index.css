@@ -1,0 +1,21 @@
+.icon-button {
+  width: 40px;
+}
+
+.menu-items {
+  opacity: 0;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  min-height: 30px;
+  transition: 0.2s;
+}
+
+.menu-btn {
+  padding: 10px;
+}
+
+.menu-items.visible{
+  opacity: 1;
+}
