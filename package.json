@@ -1,7 +1,7 @@
 {
   "name": "dropdownmenu",
   "version": "1.0.0",
-  "description": "",
+  "description": "create a drop down menu button",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
